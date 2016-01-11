@@ -2,4 +2,5 @@
 using namespace std;
 void main(){
   cout<<"Open World"<<endl;
+  cout<<"PULL"<<endl;
 }
